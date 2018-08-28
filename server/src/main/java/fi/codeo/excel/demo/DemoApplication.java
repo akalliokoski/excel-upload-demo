@@ -1,4 +1,4 @@
-package com.okta.developer.demo;
+package fi.codeo.excel.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

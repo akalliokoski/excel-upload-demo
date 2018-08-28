@@ -1,4 +1,4 @@
-package com.okta.developer.demo;
+package fi.codeo.excel.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

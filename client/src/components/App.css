@@ -9,8 +9,8 @@
 
 .App-header {
   background-color: #222;
-  height: 150px;
-  padding: 20px;
+  height: 60px;
+  padding: 1px;
   color: white;
 }
 
@@ -22,7 +22,18 @@
   font-size: large;
 }
 
+.employee-list {
+  margin: 10px;
+}
+
+.file-upload-wrapper {
+  display: block;
+  margin: auto;
+  width: 200px;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
